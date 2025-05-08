@@ -1,7 +1,7 @@
 // ProjectMDC - Department of Biological Threats: The Investigation
 
 #pragma once
-
+//
 #include "CoreMinimal.h"
 #include "AbilitySystemComponent.h"
 #include "AbilitySystemCore.generated.h"
